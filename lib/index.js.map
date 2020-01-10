@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/index.js"],"sourcesContent":["module.exports = require('./ReactHowler').default\n"],"names":["module","exports","require","default"],"mappings":";;;AAAAA,MAAM,CAACC,OAAP,GAAiBC,OAAO,iBAAP,CAAyBC,OAA1C"}
