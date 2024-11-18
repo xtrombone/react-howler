@@ -2,7 +2,7 @@
   "name": "react-howler",
   "version": "5.2.0",
   "description": "A React.js wrapper for howler.js (audio player)",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "prebabelify": "rimraf lib",
     "babelify": "babel src -d lib",
@@ -16,7 +16,7 @@
     "release": "npmpub"
   },
   "files": [
-    "src/*"
+    "lib/*"
   ],
   "standard": {
     "ignore": [

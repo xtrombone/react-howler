@@ -8,4 +8,4 @@ coverage
 .lock-wscript
 node_modules
 dist
-lib
+
