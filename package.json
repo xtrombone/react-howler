@@ -16,7 +16,7 @@
     "release": "npmpub"
   },
   "files": [
-    "lib/*"
+    "src/*"
   ],
   "standard": {
     "ignore": [
